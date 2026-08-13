@@ -1,0 +1,240 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Octotree",
+          "description": "Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-06T17:52:26Z",
+            "owner": "ovity",
+            "repo": "octotree",
+            "stars": 23228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyglot",
+          "description": "Safari extension that translates selected text into your native language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-05-17T04:35:17Z",
+            "owner": "uetchy",
+            "repo": "Polyglot",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultra TabSaver",
+          "description": "The Open Source Tab Manager for Safari",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-09-12T00:26:49Z",
+            "owner": "Swift-open-source",
+            "repo": "UltraTabSaver",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiPer",
+          "description": "Adds a picture-in-picture button to many supported sites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-01T09:01:41Z",
+            "owner": "amarcu5",
+            "repo": "PiPer",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safarikai",
+          "description": "Safari extension for translating Japanese words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-05-23T00:35:04Z",
+            "owner": "ashchan",
+            "repo": "safarikai",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Privacy Redirect for Safari",
+          "description": "Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-08-26T17:38:12Z",
+            "owner": "smmr-software",
+            "repo": "privacy-redirect-safari",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refined GitHub",
+          "description": "Some small UI and usability improvements on the Github website.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-04-23T21:50:44Z",
+            "owner": "lautis",
+            "repo": "refined-github-safari",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nightlight",
+          "description": "In the case where there is no Stylish theme available, you can turn on a permanent night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-06-03T02:54:40Z",
+            "owner": "Gofake1",
+            "repo": "Nightlight",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zoom In",
+          "description": "Automatically open Zoom links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-11-10T19:57:44Z",
+            "owner": "soffes",
+            "repo": "ZoomIn",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Select",
+          "description": "Allows you to select text inside links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-03T05:28:39Z",
+            "owner": "makoni",
+            "repo": "select-like-a-boss-for-safari",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "These extensions have not been updated for Safari 13 and thus do not work with the latest version and are considered deprecated",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Autocomplete For Github",
+          "description": "Adds autocomplete for GitHub's search bar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T14:46:18Z",
+            "owner": "algolia",
+            "repo": "github-awesome-autocomplete",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Formatter",
+          "description": "Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-09T01:23:16Z",
+            "owner": "rfletcher",
+            "repo": "safari-json-formatter",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sVim",
+          "description": "Adds a custom layer of keybinds you can customise to personalise your browsing experience. Here is an example of config you might make.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-11T21:22:20Z",
+            "owner": "flippidippi",
+            "repo": "sVim",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML Viewer",
+          "description": "Powerful XML viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-04T15:37:24Z",
+            "owner": "Samirla",
+            "repo": "xmlview",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Highlight Selected",
+          "description": "Highlights selected word in GitHub source view like Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-08T13:53:27Z",
+            "owner": "Nuclides",
+            "repo": "github-highlight-selected",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlienTube",
+          "description": "Youtube comments are useless, this shows Reddit comments on videos that were submitted to Reddit.",
+          "children": []
+        }
+      ],
+      "title": "Deprecated"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:40.008Z",
+    "original_repository": "linsa-io/safari-extensions",
+    "original_repository_sha": "04d6aaec002da7ca19b69f478d06662f1a201afc",
+    "enhanced_repository": "enhansome/enhansome-safari-extensions",
+    "enhanced_repository_description": null,
+    "title": "Awesome Safari extensions with stars"
+  }
+}
