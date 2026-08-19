@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19620844,
             "language": "JavaScript",
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48146087,
             "language": "Swift",
             "last_commit": "2023-05-17T04:35:17Z",
             "owner": "uetchy",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254133658,
             "language": "Swift",
             "last_commit": "2020-09-12T00:26:49Z",
             "owner": "Swift-open-source",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83697681,
             "language": "JavaScript",
             "last_commit": "2022-06-01T09:01:41Z",
             "owner": "amarcu5",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15325769,
             "language": "Swift",
             "last_commit": "2022-05-23T00:35:04Z",
             "owner": "ashchan",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376109534,
             "language": "Swift",
             "last_commit": "2023-08-26T17:38:12Z",
             "owner": "smmr-software",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 128175244,
             "language": "Swift",
             "last_commit": "2021-04-23T21:50:44Z",
             "owner": "lautis",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69074692,
             "language": "Swift",
             "last_commit": "2019-06-03T02:54:40Z",
             "owner": "Gofake1",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251499028,
             "language": "Swift",
             "last_commit": "2020-11-10T19:57:44Z",
             "owner": "soffes",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29964009,
             "language": "JavaScript",
             "last_commit": "2026-03-03T05:28:39Z",
             "owner": "makoni",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28206168,
             "language": "JavaScript",
             "last_commit": "2019-02-25T14:46:18Z",
             "owner": "algolia",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 719408,
             "language": "JavaScript",
             "last_commit": "2017-09-09T01:23:16Z",
             "owner": "rfletcher",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23004419,
             "language": "JavaScript",
             "last_commit": "2021-08-11T21:22:20Z",
             "owner": "flippidippi",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 464247,
             "language": "JavaScript",
             "last_commit": "2022-09-04T15:37:24Z",
             "owner": "Samirla",
@@ -212,26 +226,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25850458,
             "language": "JavaScript",
             "last_commit": "2019-10-08T13:53:27Z",
             "owner": "Nuclides",
             "repo": "github-highlight-selected",
             "stars": 144
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AlienTube",
-          "description": "Youtube comments are useless, this shows Reddit comments on videos that were submitted to Reddit.",
-          "children": []
         }
       ],
       "title": "Deprecated"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:02:08.272Z",
+    "last_updated": "2026-08-19T12:48:52.776Z",
     "original_repository": "linsa-io/safari-extensions",
+    "original_repository_id": 98917462,
     "original_repository_sha": "04d6aaec002da7ca19b69f478d06662f1a201afc",
     "enhanced_repository": "enhansome/enhansome-safari-extensions",
     "enhanced_repository_description": null,
