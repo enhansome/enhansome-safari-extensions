@@ -14,7 +14,7 @@
 
 ## General
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,235 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,236 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Polyglot](https://github.com/uetchy/Polyglot) ⭐ 480 | 🐛 37 | 🌐 Swift | 📅 2023-05-17 - Safari extension that translates selected text into your native language.
 * [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) ⭐ 292 | 🐛 5 | 🌐 Swift | 📅 2020-09-12 The Open Source Tab Manager for Safari
 * [PiPer](https://github.com/amarcu5/PiPer) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01 - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01
@@ -44,7 +44,7 @@ These extensions have not been updated for Safari 13 and thus do not work with t
 
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
 * [JSON Formatter](https://github.com/rfletcher/safari-json-formatter) ⭐ 839 | 🐛 22 | 🌐 JavaScript | 📅 2017-09-09 - Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.
-* [sVim](https://github.com/flipxfx/sVim) ⭐ 741 | 🐛 55 | 🌐 JavaScript | 📅 2021-08-11 - Adds a custom layer of keybinds you can customise to personalise your browsing experience. [Here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) is an example of config you might make.
+* [sVim](https://github.com/flipxfx/sVim) ⭐ 740 | 🐛 55 | 🌐 JavaScript | 📅 2021-08-11 - Adds a custom layer of keybinds you can customise to personalise your browsing experience. [Here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) is an example of config you might make.
 * [XML Viewer](https://github.com/sergeche/xmlview) ⭐ 337 | 🐛 37 | 🌐 JavaScript | 📅 2022-09-04 - Powerful XML viewer.
 * [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) ⭐ 144 | 🐛 3 | 🌐 JavaScript | 📅 2019-10-08 - Highlights selected word in GitHub source view like Sublime Text.
 * [AlienTube](https://github.com/mabako/alientube) - Youtube comments are useless, this shows Reddit comments on videos that were submitted to Reddit.
@@ -69,4 +69,4 @@ These extensions have not been updated for Safari 13 and thus do not work with t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
