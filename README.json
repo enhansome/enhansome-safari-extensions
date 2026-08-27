@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:27.902Z",
-    "original_repository": "linsa-io/safari-extensions",
-    "original_repository_id": 98917462,
+    "last_updated": "2026-08-27T12:02:21.800Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 98917462,
+      "language": null,
+      "last_commit": "2022-06-30T13:36:21Z",
+      "owner": "linsa-io",
+      "repo": "safari-extensions",
+      "stars": 393
+    },
     "original_repository_sha": "04d6aaec002da7ca19b69f478d06662f1a201afc",
     "enhanced_repository": "enhansome/enhansome-safari-extensions",
     "enhanced_repository_description": null,
