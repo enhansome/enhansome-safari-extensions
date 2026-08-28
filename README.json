@@ -15,8 +15,9 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23238
-          }
+            "stars": 23240
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "uetchy",
             "repo": "Polyglot",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "amarcu5",
             "repo": "PiPer",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ashchan",
             "repo": "safarikai",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "smmr-software",
             "repo": "privacy-redirect-safari",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "lautis",
             "repo": "refined-github-safari",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Gofake1",
             "repo": "Nightlight",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "soffes",
             "repo": "ZoomIn",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "makoni",
             "repo": "select-like-a-boss-for-safari",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         }
       ],
       "title": "General"
@@ -172,7 +182,8 @@
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
             "stars": 1071
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "rfletcher",
             "repo": "safari-json-formatter",
             "stars": 839
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "flippidippi",
             "repo": "sVim",
             "stars": 740
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Samirla",
             "repo": "xmlview",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         },
         {
           "node_type": "item",
@@ -232,14 +246,15 @@
             "owner": "Nuclides",
             "repo": "github-highlight-selected",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T07:07:12.503Z"
         }
       ],
       "title": "Deprecated"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:21.800Z",
+    "last_updated": "2026-08-28T07:07:12.503Z",
     "original_repository_info": {
       "archived": false,
       "id": 98917462,
