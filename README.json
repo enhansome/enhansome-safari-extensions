@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub on steroids",
+            "homepage": "https://www.octotree.io/",
             "id": 19620844,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-06-06T17:52:26Z",
+            "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23240
+            "stars": 23240,
+            "topics": [
+              "browser-extension",
+              "chrome",
+              "code-files",
+              "code-review",
+              "edge",
+              "firefox",
+              "github",
+              "opera",
+              "pull-request-review",
+              "safari"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -26,12 +42,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌏 The missing Safari extension that translates selected text into your native language.",
+            "homepage": null,
             "id": 48146087,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-17T04:35:17Z",
+            "open_issues": 37,
             "owner": "uetchy",
             "repo": "Polyglot",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "safari",
+              "safari-extension",
+              "translate",
+              "translation",
+              "translator"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -42,12 +69,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source Tab Manager Extension for Safari.",
+            "homepage": null,
             "id": 254133658,
             "language": "Swift",
+            "license": "GPL-2.0",
             "last_commit": "2020-09-12T00:26:49Z",
+            "open_issues": 5,
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "app",
+              "apple",
+              "appstore",
+              "begginer-friendly",
+              "clipboard",
+              "extension-icon",
+              "free",
+              "mac",
+              "macos",
+              "macosx",
+              "open-source",
+              "opensource",
+              "safari",
+              "safari-extension",
+              "swift",
+              "tabs-management"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -58,12 +107,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser extension that adds Picture in Picture support to YouTube, Netflix, Amazon Video, Twitch, Plex, and more!",
+            "homepage": null,
             "id": 83697681,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-01T09:01:41Z",
+            "open_issues": 61,
             "owner": "amarcu5",
             "repo": "PiPer",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "amazon-video",
+              "chrome-extension",
+              "netflix",
+              "picture-in-picture",
+              "plex",
+              "safari-extension",
+              "twitch-tv",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -74,12 +137,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safari extension for translating Japanese words.",
+            "homepage": "https://itunes.apple.com/us/app/safarikai/id1437951175?ls=1&mt=12",
             "id": 15325769,
             "language": "Swift",
+            "license": null,
             "last_commit": "2022-05-23T00:35:04Z",
+            "open_issues": 2,
             "owner": "ashchan",
             "repo": "safarikai",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "dictionary",
+              "edict",
+              "japanese",
+              "safari-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -90,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Safari extension that redirects Twitter, YouTube, Reddit, and more to privacy friendly alternatives.",
+            "homepage": null,
             "id": 376109534,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-26T17:38:12Z",
+            "open_issues": 10,
             "owner": "smmr-software",
             "repo": "privacy-redirect-safari",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -106,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(Deprecated) Safari version of the Refined Github extension",
+            "homepage": null,
             "id": 128175244,
             "language": "Swift",
+            "license": "ISC",
             "last_commit": "2021-04-23T21:50:44Z",
+            "open_issues": 7,
             "owner": "lautis",
             "repo": "refined-github-safari",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -122,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse the internet more comfortably at night",
+            "homepage": "https://gofake1.net/projects/nightlight.html",
             "id": 69074692,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-06-03T02:54:40Z",
+            "open_issues": 8,
             "owner": "Gofake1",
             "repo": "Nightlight",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -138,12 +226,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safari extension for opening Zoom right away",
+            "homepage": "https://zoom-in.app",
             "id": 251499028,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-11-10T19:57:44Z",
+            "open_issues": 2,
             "owner": "soffes",
             "repo": "ZoomIn",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "mac",
+              "safari-extension",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -154,12 +251,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extension for Safari that allows you to select text inside links.",
+            "homepage": null,
             "id": 29964009,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-03T05:28:39Z",
+            "open_issues": 1,
             "owner": "makoni",
             "repo": "select-like-a-boss-for-safari",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "javascript",
+              "safari",
+              "safari-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         }
@@ -176,12 +282,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":octocat: Add instant search capabilities to GitHub's search bar",
+            "homepage": "https://github.algolia.com",
             "id": 28206168,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-25T14:46:18Z",
+            "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1071
+            "stars": 1070,
+            "topics": [
+              "algolia",
+              "chrome",
+              "firefox",
+              "github",
+              "search",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -192,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Safari extension which makes valid JSON documents human-readable.",
+            "homepage": null,
             "id": 719408,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-09-09T01:23:16Z",
+            "open_issues": 22,
             "owner": "rfletcher",
             "repo": "safari-json-formatter",
-            "stars": 839
+            "stars": 839,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -208,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safari extension with shortcuts similar to Vim",
+            "homepage": null,
             "id": 23004419,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-11T21:22:20Z",
+            "open_issues": 55,
             "owner": "flippidippi",
             "repo": "sVim",
-            "stars": 740
+            "stars": 740,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -224,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful XML viewer for Google Chrome and Safari",
+            "homepage": null,
             "id": 464247,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-04T15:37:24Z",
+            "open_issues": 37,
             "owner": "Samirla",
             "repo": "xmlview",
-            "stars": 337
+            "stars": 337,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         },
@@ -240,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome extension for highlighting selected word in GitHub source view like Sublime Text.",
+            "homepage": null,
             "id": 25850458,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-08T13:53:27Z",
+            "open_issues": 3,
             "owner": "Nuclides",
             "repo": "github-highlight-selected",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
         }
@@ -254,15 +392,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:07:12.503Z",
+    "last_updated": "2026-08-29T04:41:00.673Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Safari extensions ",
+      "homepage": null,
       "id": 98917462,
       "language": null,
+      "license": null,
       "last_commit": "2022-06-30T13:36:21Z",
+      "open_issues": 2,
       "owner": "linsa-io",
       "repo": "safari-extensions",
-      "stars": 393
+      "stars": 393,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "learning",
+        "safari",
+        "safari-extension"
+      ]
     },
     "original_repository_sha": "04d6aaec002da7ca19b69f478d06662f1a201afc",
     "enhanced_repository": "enhansome/enhansome-safari-extensions",
