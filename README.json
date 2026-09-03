@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23240,
+            "stars": 23238,
             "topics": [
               "browser-extension",
               "chrome",
@@ -146,7 +146,7 @@
             "open_issues": 2,
             "owner": "ashchan",
             "repo": "safarikai",
-            "stars": 216,
+            "stars": 215,
             "topics": [
               "dictionary",
               "edict",
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:28:26.710Z",
+    "last_updated": "2026-09-03T01:31:37.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",

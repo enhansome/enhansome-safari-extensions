@@ -14,11 +14,11 @@
 
 ## General
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,240 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,238 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Polyglot](https://github.com/uetchy/Polyglot) ⭐ 480 | 🐛 37 | 🌐 Swift | 📅 2023-05-17 - Safari extension that translates selected text into your native language.
 * [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) ⭐ 292 | 🐛 5 | 🌐 Swift | 📅 2020-09-12 The Open Source Tab Manager for Safari
 * [PiPer](https://github.com/amarcu5/PiPer) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01 - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01
-* [Safarikai](https://github.com/ashchan/safarikai) ⭐ 216 | 🐛 2 | 🌐 Swift | 📅 2022-05-23 - Safari extension for translating Japanese words.
+* [Safarikai](https://github.com/ashchan/safarikai) ⭐ 215 | 🐛 2 | 🌐 Swift | 📅 2022-05-23 - Safari extension for translating Japanese words.
 * [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) ⭐ 183 | 🐛 10 | 🌐 Swift | 📅 2023-08-26 - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 * [Refined GitHub](https://github.com/lautis/refined-github-safari) ⚠️ Archived - Some small UI and usability improvements on the [Github](https://github.com/) website.
 * [Nightlight](https://github.com/Gofake1/Nightlight) ⭐ 91 | 🐛 8 | 🌐 Swift | 📅 2019-06-03 - In the case where there is no Stylish theme available, you can turn on a permanent night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
@@ -63,10 +63,10 @@ These extensions have not been updated for Safari 13 and thus do not work with t
 * [Safari extensions gallery](https://safari-extensions.apple.com)
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 944 | 🐛 2 | 📅 2023-11-13
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 945 | 🐛 2 | 📅 2023-11-13
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat\&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
