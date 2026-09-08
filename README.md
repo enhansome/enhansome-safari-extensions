@@ -14,14 +14,14 @@
 
 ## General
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,247 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,246 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Polyglot](https://github.com/uetchy/Polyglot) ⭐ 480 | 🐛 37 | 🌐 Swift | 📅 2023-05-17 - Safari extension that translates selected text into your native language.
 * [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) ⭐ 292 | 🐛 5 | 🌐 Swift | 📅 2020-09-12 The Open Source Tab Manager for Safari
 * [PiPer](https://github.com/amarcu5/PiPer) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01 - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01
 * [Safarikai](https://github.com/ashchan/safarikai) ⭐ 215 | 🐛 2 | 🌐 Swift | 📅 2022-05-23 - Safari extension for translating Japanese words.
 * [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) ⭐ 183 | 🐛 10 | 🌐 Swift | 📅 2023-08-26 - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 * [Refined GitHub](https://github.com/lautis/refined-github-safari) ⚠️ Archived - Some small UI and usability improvements on the [Github](https://github.com/) website.
-* [Nightlight](https://github.com/Gofake1/Nightlight) ⭐ 91 | 🐛 8 | 🌐 Swift | 📅 2019-06-03 - In the case where there is no Stylish theme available, you can turn on a permanent night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
+* [Nightlight](https://github.com/Gofake1/Nightlight) ⭐ 90 | 🐛 8 | 🌐 Swift | 📅 2019-06-03 - In the case where there is no Stylish theme available, you can turn on a permanent night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
 * [Zoom In](https://github.com/nothingmagical/ZoomIn) ⭐ 62 | 🐛 2 | 🌐 Swift | 📅 2020-11-10 - Automatically open Zoom links.
 * [Select](https://github.com/makoni/select-like-a-boss-for-safari) ⭐ 49 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-03 - Allows you to select text inside links.
 * [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
@@ -44,7 +44,7 @@ These extensions have not been updated for Safari 13 and thus do not work with t
 
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
 * [JSON Formatter](https://github.com/rfletcher/safari-json-formatter) ⭐ 839 | 🐛 22 | 🌐 JavaScript | 📅 2017-09-09 - Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.
-* [sVim](https://github.com/flipxfx/sVim) ⭐ 740 | 🐛 55 | 🌐 JavaScript | 📅 2021-08-11 - Adds a custom layer of keybinds you can customise to personalise your browsing experience. [Here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) is an example of config you might make.
+* [sVim](https://github.com/flipxfx/sVim) ⭐ 739 | 🐛 55 | 🌐 JavaScript | 📅 2021-08-11 - Adds a custom layer of keybinds you can customise to personalise your browsing experience. [Here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) is an example of config you might make.
 * [XML Viewer](https://github.com/sergeche/xmlview) ⭐ 337 | 🐛 37 | 🌐 JavaScript | 📅 2022-09-04 - Powerful XML viewer.
 * [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) ⭐ 144 | 🐛 3 | 🌐 JavaScript | 📅 2019-10-08 - Highlights selected word in GitHub source view like Sublime Text.
 * [AlienTube](https://github.com/mabako/alientube) - Youtube comments are useless, this shows Reddit comments on videos that were submitted to Reddit.
@@ -69,4 +69,4 @@ These extensions have not been updated for Safari 13 and thus do not work with t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

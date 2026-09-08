@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23247,
+            "stars": 23246,
             "topics": [
               "browser-extension",
               "chrome",
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "Gofake1",
             "repo": "Nightlight",
-            "stars": 91,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
@@ -340,7 +340,7 @@
             "open_issues": 55,
             "owner": "flippidippi",
             "repo": "sVim",
-            "stars": 740,
+            "stars": 739,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:19:57.257Z",
+    "last_updated": "2026-09-08T01:29:03.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
