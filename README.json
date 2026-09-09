@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23246,
+            "stars": 23244,
             "topics": [
               "browser-extension",
               "chrome",
@@ -361,7 +361,7 @@
             "open_issues": 37,
             "owner": "Samirla",
             "repo": "xmlview",
-            "stars": 337,
+            "stars": 338,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:29:03.178Z",
+    "last_updated": "2026-09-09T01:37:18.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
