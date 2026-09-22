@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23249,
+            "stars": 23251,
             "topics": [
               "browser-extension",
               "chrome",
@@ -78,7 +78,7 @@
             "open_issues": 5,
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "app",
               "apple",
@@ -291,7 +291,7 @@
             "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1071,
+            "stars": 1070,
             "topics": [
               "algolia",
               "chrome",
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:44:36.884Z",
+    "last_updated": "2026-09-22T01:55:48.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
@@ -404,7 +404,7 @@
       "open_issues": 3,
       "owner": "linsa-io",
       "repo": "safari-extensions",
-      "stars": 393,
+      "stars": 394,
       "topics": [
         "awesome",
         "awesome-list",
