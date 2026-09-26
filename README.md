@@ -14,10 +14,10 @@
 
 ## General
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,257 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,258 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Polyglot](https://github.com/uetchy/Polyglot) ⭐ 480 | 🐛 37 | 🌐 Swift | 📅 2023-05-17 - Safari extension that translates selected text into your native language.
 * [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) ⭐ 291 | 🐛 5 | 🌐 Swift | 📅 2020-09-12 The Open Source Tab Manager for Safari
-* [PiPer](https://github.com/amarcu5/PiPer) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01 - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites) ⭐ 265 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01
+* [PiPer](https://github.com/amarcu5/PiPer) ⭐ 266 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01 - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites) ⭐ 266 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01
 * [Safarikai](https://github.com/ashchan/safarikai) ⭐ 215 | 🐛 2 | 🌐 Swift | 📅 2022-05-23 - Safari extension for translating Japanese words.
 * [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) ⭐ 183 | 🐛 10 | 🌐 Swift | 📅 2023-08-26 - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 * [Refined GitHub](https://github.com/lautis/refined-github-safari) ⚠️ Archived - Some small UI and usability improvements on the [Github](https://github.com/) website.
@@ -69,4 +69,4 @@ These extensions have not been updated for Safari 13 and thus do not work with t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
