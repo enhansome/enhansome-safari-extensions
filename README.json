@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2024-06-06T17:52:26Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
             "stars": 23259,
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:54:22.744Z",
+    "last_updated": "2026-09-28T02:00:48.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
