@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23270,
+            "stars": 23273,
             "topics": [
               "browser-extension",
               "chrome",
@@ -172,7 +172,7 @@
             "open_issues": 10,
             "owner": "smmr-software",
             "repo": "privacy-redirect-safari",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:09:14.107Z",
+    "last_updated": "2026-10-04T02:52:58.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
