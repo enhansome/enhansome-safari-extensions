@@ -51,7 +51,7 @@
             "open_issues": 37,
             "owner": "uetchy",
             "repo": "Polyglot",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "safari",
               "safari-extension",
@@ -78,7 +78,7 @@
             "open_issues": 5,
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
-            "stars": 291,
+            "stars": 292,
             "topics": [
               "app",
               "apple",
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:44:10.306Z",
+    "last_updated": "2026-10-08T03:01:21.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
@@ -404,7 +404,7 @@
       "open_issues": 3,
       "owner": "linsa-io",
       "repo": "safari-extensions",
-      "stars": 395,
+      "stars": 396,
       "topics": [
         "awesome",
         "awesome-list",
