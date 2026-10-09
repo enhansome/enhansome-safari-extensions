@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23278,
+            "stars": 23279,
             "topics": [
               "browser-extension",
               "chrome",
@@ -337,7 +337,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2021-08-11T21:22:20Z",
-            "open_issues": 55,
+            "open_issues": 54,
             "owner": "flippidippi",
             "repo": "sVim",
             "stars": 739,
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T03:01:21.351Z",
+    "last_updated": "2026-10-09T03:08:44.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
