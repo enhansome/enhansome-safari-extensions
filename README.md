@@ -14,7 +14,7 @@
 
 ## General
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,277 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,280 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Polyglot](https://github.com/uetchy/Polyglot) ⭐ 481 | 🐛 37 | 🌐 Swift | 📅 2023-05-17 - Safari extension that translates selected text into your native language.
 * [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) ⭐ 292 | 🐛 5 | 🌐 Swift | 📅 2020-09-12 The Open Source Tab Manager for Safari
 * [PiPer](https://github.com/amarcu5/PiPer) ⭐ 266 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01 - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites) ⭐ 266 | 🐛 61 | 🌐 JavaScript | 📅 2022-06-01
@@ -69,4 +69,4 @@ These extensions have not been updated for Safari 13 and thus do not work with t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
