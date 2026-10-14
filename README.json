@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2024-06-06T17:52:26Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23280,
+            "stars": 23282,
             "topics": [
               "browser-extension",
               "chrome",
@@ -172,7 +172,7 @@
             "open_issues": 10,
             "owner": "smmr-software",
             "repo": "privacy-redirect-safari",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:57:02.463Z",
+    "last_updated": "2026-10-14T02:12:13.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
@@ -404,7 +404,7 @@
       "open_issues": 3,
       "owner": "linsa-io",
       "repo": "safari-extensions",
-      "stars": 397,
+      "stars": 398,
       "topics": [
         "awesome",
         "awesome-list",
