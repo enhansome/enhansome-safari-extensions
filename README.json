@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23302,
+            "stars": 23303,
             "topics": [
               "browser-extension",
               "chrome",
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:16:52.098Z",
+    "last_updated": "2026-11-08T02:45:37.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
@@ -402,7 +402,7 @@
       "license": null,
       "last_commit": "2022-06-30T13:36:21Z",
       "open_issues": 4,
-      "owner": "linsa-io",
+      "owner": "gendotnew",
       "repo": "safari-extensions",
       "stars": 398,
       "topics": [
