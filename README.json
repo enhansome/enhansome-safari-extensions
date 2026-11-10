@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23305,
+            "stars": 23309,
             "topics": [
               "browser-extension",
               "chrome",
@@ -319,7 +319,7 @@
             "open_issues": 22,
             "owner": "rfletcher",
             "repo": "safari-json-formatter",
-            "stars": 839,
+            "stars": 840,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T03:03:09.007Z",
+    "last_updated": "2026-11-10T04:48:30.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
