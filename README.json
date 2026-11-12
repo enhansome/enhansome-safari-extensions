@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23312,
+            "stars": 23311,
             "topics": [
               "browser-extension",
               "chrome",
@@ -51,7 +51,7 @@
             "open_issues": 37,
             "owner": "uetchy",
             "repo": "Polyglot",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "safari",
               "safari-extension",
@@ -291,7 +291,7 @@
             "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "algolia",
               "chrome",
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T03:10:01.420Z",
+    "last_updated": "2026-11-12T04:23:08.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
