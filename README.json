@@ -78,7 +78,7 @@
             "open_issues": 5,
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "app",
               "apple",
@@ -193,7 +193,7 @@
             "open_issues": 7,
             "owner": "lautis",
             "repo": "refined-github-safari",
-            "stars": 125,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:12.503Z"
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:19:11.441Z",
+    "last_updated": "2026-11-22T03:32:00.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
@@ -404,7 +404,7 @@
       "open_issues": 5,
       "owner": "gendotnew",
       "repo": "safari-extensions",
-      "stars": 399,
+      "stars": 400,
       "topics": [
         "awesome",
         "awesome-list",
