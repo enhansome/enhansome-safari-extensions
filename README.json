@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23330,
+            "stars": 23331,
             "topics": [
               "browser-extension",
               "chrome",
@@ -116,7 +116,7 @@
             "open_issues": 61,
             "owner": "amarcu5",
             "repo": "PiPer",
-            "stars": 266,
+            "stars": 265,
             "topics": [
               "amazon-video",
               "chrome-extension",
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T07:07:32.914Z",
+    "last_updated": "2026-11-25T05:42:29.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Safari extensions ",
